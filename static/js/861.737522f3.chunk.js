@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkroot_automated_setup=self.webpackChunkroot_automated_setup||[]).push([[861],{861:function(e,a,t){t.r(a);var u=t(279),n=t(87),o=t(229),s=t(675);u.ZP.use(o.Z).use(s.Z).use(n.Db).init({fallbackLng:"en",debug:!1,load:"languageOnly",ns:"auset",interpolation:{escapeValue:!1},backend:{loadPath:"".concat("/root-automated-setup","/locales/{{ns}}-{{lng}}.json")}})}}]);
-//# sourceMappingURL=861.737522f3.chunk.js.map
