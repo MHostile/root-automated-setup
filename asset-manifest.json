@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/root-automated-setup/static/css/main.9daad2c0.css",
-    "main.js": "/root-automated-setup/static/js/main.9757300d.js",
+    "main.js": "/root-automated-setup/static/js/main.68c17aed.js",
     "static/css/872.4ef167ac.chunk.css": "/root-automated-setup/static/css/872.4ef167ac.chunk.css",
-    "static/js/872.bdc0d07f.chunk.js": "/root-automated-setup/static/js/872.bdc0d07f.chunk.js",
+    "static/js/872.2b216d3f.chunk.js": "/root-automated-setup/static/js/872.2b216d3f.chunk.js",
     "static/js/805.764e7c55.chunk.js": "/root-automated-setup/static/js/805.764e7c55.chunk.js",
     "static/media/background.jpg": "/root-automated-setup/static/media/background.8e30f94bdfebcf634cca.jpg",
     "static/media/componentDefault.png": "/root-automated-setup/static/media/componentDefault.5a01fc0ce3794af43600.png",
@@ -18,13 +18,13 @@
     "static/media/next.svg": "/root-automated-setup/static/media/next.f651cefe41f9309065677703624ef585.svg",
     "static/media/getFetch.cjs": "/root-automated-setup/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.9daad2c0.css.map": "/root-automated-setup/static/css/main.9daad2c0.css.map",
-    "main.9757300d.js.map": "/root-automated-setup/static/js/main.9757300d.js.map",
+    "main.68c17aed.js.map": "/root-automated-setup/static/js/main.68c17aed.js.map",
     "872.4ef167ac.chunk.css.map": "/root-automated-setup/static/css/872.4ef167ac.chunk.css.map",
-    "872.bdc0d07f.chunk.js.map": "/root-automated-setup/static/js/872.bdc0d07f.chunk.js.map",
+    "872.2b216d3f.chunk.js.map": "/root-automated-setup/static/js/872.2b216d3f.chunk.js.map",
     "805.764e7c55.chunk.js.map": "/root-automated-setup/static/js/805.764e7c55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9daad2c0.css",
-    "static/js/main.9757300d.js"
+    "static/js/main.68c17aed.js"
   ]
 }
