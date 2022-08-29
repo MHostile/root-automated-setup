@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/root-automated-setup/static/css/main.9daad2c0.css",
-    "main.js": "/root-automated-setup/static/js/main.b820591d.js",
-    "auset.css": "/root-automated-setup/static/css/auset.24cb308a.chunk.css",
+    "main.css": "/root-automated-setup/static/css/main.7d6ca363.css",
+    "main.js": "/root-automated-setup/static/js/main.f097bdd2.js",
+    "auset.css": "/root-automated-setup/static/css/auset.97ad68e9.chunk.css",
     "auset.js": "/root-automated-setup/static/js/auset.287ca611.chunk.js",
-    "static/js/805.25671de7.chunk.js": "/root-automated-setup/static/js/805.25671de7.chunk.js",
+    "static/js/805.764e7c55.chunk.js": "/root-automated-setup/static/js/805.764e7c55.chunk.js",
     "static/media/background.jpg": "/root-automated-setup/static/media/background.8e30f94bdfebcf634cca.jpg",
     "static/media/componentDefault.png": "/root-automated-setup/static/media/componentDefault.5a01fc0ce3794af43600.png",
     "service-worker.js": "/root-automated-setup/service-worker.js",
@@ -17,14 +17,14 @@
     "static/media/close.svg": "/root-automated-setup/static/media/close.2868256c5d35189e90f781fe73fc5c34.svg",
     "static/media/next.svg": "/root-automated-setup/static/media/next.f651cefe41f9309065677703624ef585.svg",
     "static/media/getFetch.cjs": "/root-automated-setup/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.9daad2c0.css.map": "/root-automated-setup/static/css/main.9daad2c0.css.map",
-    "main.b820591d.js.map": "/root-automated-setup/static/js/main.b820591d.js.map",
-    "auset.24cb308a.chunk.css.map": "/root-automated-setup/static/css/auset.24cb308a.chunk.css.map",
+    "main.7d6ca363.css.map": "/root-automated-setup/static/css/main.7d6ca363.css.map",
+    "main.f097bdd2.js.map": "/root-automated-setup/static/js/main.f097bdd2.js.map",
+    "auset.97ad68e9.chunk.css.map": "/root-automated-setup/static/css/auset.97ad68e9.chunk.css.map",
     "auset.287ca611.chunk.js.map": "/root-automated-setup/static/js/auset.287ca611.chunk.js.map",
-    "805.25671de7.chunk.js.map": "/root-automated-setup/static/js/805.25671de7.chunk.js.map"
+    "805.764e7c55.chunk.js.map": "/root-automated-setup/static/js/805.764e7c55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9daad2c0.css",
-    "static/js/main.b820591d.js"
+    "static/css/main.7d6ca363.css",
+    "static/js/main.f097bdd2.js"
   ]
 }
