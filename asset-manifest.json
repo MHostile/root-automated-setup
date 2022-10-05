@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/root-automated-setup/static/css/main.afac4bf0.css",
-    "main.js": "/root-automated-setup/static/js/main.ac7284f1.js",
-    "auset.css": "/root-automated-setup/static/css/auset.0381c4a6.chunk.css",
-    "auset.js": "/root-automated-setup/static/js/auset.9e231aea.chunk.js",
-    "static/js/320.ff9fe020.chunk.js": "/root-automated-setup/static/js/320.ff9fe020.chunk.js",
+    "main.css": "/root-automated-setup/static/css/main.0399cbd4.css",
+    "main.js": "/root-automated-setup/static/js/main.75bdbd75.js",
+    "auset.js": "/root-automated-setup/static/js/auset.aff89a16.chunk.js",
+    "static/js/340.7b2f182e.chunk.js": "/root-automated-setup/static/js/340.7b2f182e.chunk.js",
     "static/media/background.jpg": "/root-automated-setup/static/media/background.8e30f94bdfebcf634cca.jpg",
     "static/media/autumn.png": "/root-automated-setup/static/media/autumn.c1a7461f979de6ff6063.png",
     "static/media/mountain.png": "/root-automated-setup/static/media/mountain.1a7262872c31ea770825.png",
@@ -70,6 +69,7 @@
     "static/media/exile.png": "/root-automated-setup/static/media/exile.a00b9f5c0abead9c8d1c.png",
     "static/media/bases.png": "/root-automated-setup/static/media/bases.8da0207dcc33b1f1b5cd.png",
     "static/media/forge.png": "/root-automated-setup/static/media/forge.75e17c4ece095f53d64d.png",
+    "static/media/stronghold.png": "/root-automated-setup/static/media/stronghold.e20913cdc2192d81b2bd.png",
     "static/media/militant.svg": "/root-automated-setup/static/media/militant.4708c67a499bc925b7614c6ae04fce14.svg",
     "index.html": "/root-automated-setup/index.html",
     "static/media/undo.svg": "/root-automated-setup/static/media/undo.5a573c6cc3c17506a909a3a801018a50.svg",
@@ -78,14 +78,13 @@
     "static/media/close.svg": "/root-automated-setup/static/media/close.2868256c5d35189e90f781fe73fc5c34.svg",
     "static/media/next.svg": "/root-automated-setup/static/media/next.f651cefe41f9309065677703624ef585.svg",
     "static/media/getFetch.cjs": "/root-automated-setup/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.afac4bf0.css.map": "/root-automated-setup/static/css/main.afac4bf0.css.map",
-    "main.ac7284f1.js.map": "/root-automated-setup/static/js/main.ac7284f1.js.map",
-    "auset.0381c4a6.chunk.css.map": "/root-automated-setup/static/css/auset.0381c4a6.chunk.css.map",
-    "auset.9e231aea.chunk.js.map": "/root-automated-setup/static/js/auset.9e231aea.chunk.js.map",
-    "320.ff9fe020.chunk.js.map": "/root-automated-setup/static/js/320.ff9fe020.chunk.js.map"
+    "main.0399cbd4.css.map": "/root-automated-setup/static/css/main.0399cbd4.css.map",
+    "main.75bdbd75.js.map": "/root-automated-setup/static/js/main.75bdbd75.js.map",
+    "auset.aff89a16.chunk.js.map": "/root-automated-setup/static/js/auset.aff89a16.chunk.js.map",
+    "340.7b2f182e.chunk.js.map": "/root-automated-setup/static/js/340.7b2f182e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afac4bf0.css",
-    "static/js/main.ac7284f1.js"
+    "static/css/main.0399cbd4.css",
+    "static/js/main.75bdbd75.js"
   ]
 }
