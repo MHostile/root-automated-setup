@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/root-automated-setup/static/css/main.0399cbd4.css",
-    "main.js": "/root-automated-setup/static/js/main.75bdbd75.js",
-    "auset.js": "/root-automated-setup/static/js/auset.aff89a16.chunk.js",
-    "static/js/340.7b2f182e.chunk.js": "/root-automated-setup/static/js/340.7b2f182e.chunk.js",
+    "main.css": "/root-automated-setup/static/css/main.f70b6d55.css",
+    "main.js": "/root-automated-setup/static/js/main.9f168de2.js",
+    "en-ts.js": "/root-automated-setup/static/js/en-ts.1c774c75.chunk.js",
+    "fr-ts.js": "/root-automated-setup/static/js/fr-ts.beb3bffb.chunk.js",
     "static/media/background.jpg": "/root-automated-setup/static/media/background.8e30f94bdfebcf634cca.jpg",
     "static/media/autumn.png": "/root-automated-setup/static/media/autumn.c1a7461f979de6ff6063.png",
     "static/media/mountain.png": "/root-automated-setup/static/media/mountain.1a7262872c31ea770825.png",
@@ -25,13 +25,13 @@
     "static/media/riverfolkHirelings.png": "/root-automated-setup/static/media/riverfolkHirelings.8ce8ddf5285e2f247354.png",
     "static/media/arbiter.png": "/root-automated-setup/static/media/arbiter.985c682db6b65a981adf.png",
     "static/media/underworldHirelings.png": "/root-automated-setup/static/media/underworldHirelings.1cefa2a22c5c57e63950.png",
+    "service-worker.js": "/root-automated-setup/service-worker.js",
     "static/media/vagrant.png": "/root-automated-setup/static/media/vagrant.4e185a15b4a13088a9ae.png",
     "static/media/flotilla.png": "/root-automated-setup/static/media/flotilla.a08f9a29600fbb84ea84.png",
     "static/media/ferry.png": "/root-automated-setup/static/media/ferry.9eef994c54ca4496cf79.png",
     "static/media/bandits.png": "/root-automated-setup/static/media/bandits.41190b711427e5fdecc5.png",
     "static/media/vaultkeepers.png": "/root-automated-setup/static/media/vaultkeepers.2abf14a686cc268c20db.png",
     "static/media/protector.png": "/root-automated-setup/static/media/protector.59bc2ae04974842a3a25.png",
-    "service-worker.js": "/root-automated-setup/service-worker.js",
     "static/media/standard.png": "/root-automated-setup/static/media/standard.678a43b73cb79f445ffd.png",
     "static/media/adventurer.png": "/root-automated-setup/static/media/adventurer.39b7210e8e127c7575d2.png",
     "static/media/ronin.png": "/root-automated-setup/static/media/ronin.b247da8b3cc2f5783524.png",
@@ -77,14 +77,13 @@
     "static/media/restart.svg": "/root-automated-setup/static/media/restart.1f1bc0fcdd3af260a646146f9839655a.svg",
     "static/media/close.svg": "/root-automated-setup/static/media/close.2868256c5d35189e90f781fe73fc5c34.svg",
     "static/media/next.svg": "/root-automated-setup/static/media/next.f651cefe41f9309065677703624ef585.svg",
-    "static/media/getFetch.cjs": "/root-automated-setup/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.0399cbd4.css.map": "/root-automated-setup/static/css/main.0399cbd4.css.map",
-    "main.75bdbd75.js.map": "/root-automated-setup/static/js/main.75bdbd75.js.map",
-    "auset.aff89a16.chunk.js.map": "/root-automated-setup/static/js/auset.aff89a16.chunk.js.map",
-    "340.7b2f182e.chunk.js.map": "/root-automated-setup/static/js/340.7b2f182e.chunk.js.map"
+    "main.f70b6d55.css.map": "/root-automated-setup/static/css/main.f70b6d55.css.map",
+    "main.9f168de2.js.map": "/root-automated-setup/static/js/main.9f168de2.js.map",
+    "en-ts.1c774c75.chunk.js.map": "/root-automated-setup/static/js/en-ts.1c774c75.chunk.js.map",
+    "fr-ts.beb3bffb.chunk.js.map": "/root-automated-setup/static/js/fr-ts.beb3bffb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0399cbd4.css",
-    "static/js/main.75bdbd75.js"
+    "static/css/main.f70b6d55.css",
+    "static/js/main.9f168de2.js"
   ]
 }
