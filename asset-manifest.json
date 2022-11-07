@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/root-automated-setup/static/css/main.e19fc8d9.css",
-    "main.js": "/root-automated-setup/static/js/main.267decf9.js",
-    "fr.js": "/root-automated-setup/static/js/fr.244f14b4.chunk.js",
+    "main.js": "/root-automated-setup/static/js/main.fb139b56.js",
+    "fr.js": "/root-automated-setup/static/js/fr.e19f7690.chunk.js",
     "static/media/background.jpg": "/root-automated-setup/static/media/background.8e30f94bdfebcf634cca.jpg",
     "static/media/autumn.png": "/root-automated-setup/static/media/autumn.c1a7461f979de6ff6063.png",
     "static/media/mountain.png": "/root-automated-setup/static/media/mountain.1a7262872c31ea770825.png",
@@ -77,11 +77,11 @@
     "static/media/close.svg": "/root-automated-setup/static/media/close.2868256c5d35189e90f781fe73fc5c34.svg",
     "static/media/next.svg": "/root-automated-setup/static/media/next.f651cefe41f9309065677703624ef585.svg",
     "main.e19fc8d9.css.map": "/root-automated-setup/static/css/main.e19fc8d9.css.map",
-    "main.267decf9.js.map": "/root-automated-setup/static/js/main.267decf9.js.map",
-    "fr.244f14b4.chunk.js.map": "/root-automated-setup/static/js/fr.244f14b4.chunk.js.map"
+    "main.fb139b56.js.map": "/root-automated-setup/static/js/main.fb139b56.js.map",
+    "fr.e19f7690.chunk.js.map": "/root-automated-setup/static/js/fr.e19f7690.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e19fc8d9.css",
-    "static/js/main.267decf9.js"
+    "static/js/main.fb139b56.js"
   ]
 }
