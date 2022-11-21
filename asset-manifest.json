@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/root-automated-setup/static/css/main.e19fc8d9.css",
-    "main.js": "/root-automated-setup/static/js/main.fb139b56.js",
-    "fr.js": "/root-automated-setup/static/js/fr.e19f7690.chunk.js",
+    "main.css": "/root-automated-setup/static/css/main.32256439.css",
+    "main.js": "/root-automated-setup/static/js/main.9aeb4a33.js",
+    "fr.js": "/root-automated-setup/static/js/fr.8afee949.chunk.js",
     "static/media/background.jpg": "/root-automated-setup/static/media/background.8e30f94bdfebcf634cca.jpg",
-    "static/media/autumn.png": "/root-automated-setup/static/media/autumn.c1a7461f979de6ff6063.png",
-    "static/media/mountain.png": "/root-automated-setup/static/media/mountain.1a7262872c31ea770825.png",
+    "static/media/autumn.png": "/root-automated-setup/static/media/autumn.34a19bc9d5c6292ae9fd.png",
+    "static/media/mountain.png": "/root-automated-setup/static/media/mountain.623532bc059b644de1ae.png",
     "static/media/root.png": "/root-automated-setup/static/media/root.5656c7c64a89f459d387.png",
-    "static/media/winter.png": "/root-automated-setup/static/media/winter.63b2cd28672f4a1e88e3.png",
-    "static/media/lake.png": "/root-automated-setup/static/media/lake.e71a53488fe6d47a7452.png",
+    "static/media/winter.png": "/root-automated-setup/static/media/winter.afe29a5c099c7142eb89.png",
+    "static/media/lake.png": "/root-automated-setup/static/media/lake.ba106325c2c0ceee7b0c.png",
     "static/media/riverfolk.png": "/root-automated-setup/static/media/riverfolk.ed0aff1609093cb8b3b4.png",
     "static/media/underworld.png": "/root-automated-setup/static/media/underworld.799231e599a209bac1a2.png",
     "static/media/marauder.png": "/root-automated-setup/static/media/marauder.7575f58089087c657970.png",
@@ -27,7 +27,6 @@
     "service-worker.js": "/root-automated-setup/service-worker.js",
     "static/media/vagrant.png": "/root-automated-setup/static/media/vagrant.4e185a15b4a13088a9ae.png",
     "static/media/flotilla.png": "/root-automated-setup/static/media/flotilla.a08f9a29600fbb84ea84.png",
-    "static/media/ferry.png": "/root-automated-setup/static/media/ferry.9eef994c54ca4496cf79.png",
     "static/media/bandits.png": "/root-automated-setup/static/media/bandits.41190b711427e5fdecc5.png",
     "static/media/vaultkeepers.png": "/root-automated-setup/static/media/vaultkeepers.2abf14a686cc268c20db.png",
     "static/media/protector.png": "/root-automated-setup/static/media/protector.59bc2ae04974842a3a25.png",
@@ -36,7 +35,6 @@
     "static/media/ronin.png": "/root-automated-setup/static/media/ronin.b247da8b3cc2f5783524.png",
     "static/media/spies.png": "/root-automated-setup/static/media/spies.7812ae98bb176389cb58.png",
     "static/media/marquise.png": "/root-automated-setup/static/media/marquise.9cc3bfefa6fbd455f7bd.png",
-    "static/media/tower.png": "/root-automated-setup/static/media/tower.9d6cfe92e7245b06717b.png",
     "static/media/prophets.png": "/root-automated-setup/static/media/prophets.438ae80ed78dd9547ece.png",
     "static/media/duchy.png": "/root-automated-setup/static/media/duchy.decb0d1eff88c4e1f3b3.png",
     "static/media/band.png": "/root-automated-setup/static/media/band.1a456bd47069934e0292.png",
@@ -50,6 +48,7 @@
     "static/media/corvid.png": "/root-automated-setup/static/media/corvid.e7194054c24d075a706b.png",
     "static/media/gardens.png": "/root-automated-setup/static/media/gardens.bc75d10ddaf715c1cbe7.png",
     "static/media/relics.png": "/root-automated-setup/static/media/relics.f7a69b134edb74d21fac.png",
+    "static/media/ferry.png": "/root-automated-setup/static/media/ferry.270dc2bd96073656b41a.png",
     "static/media/flamebearers.png": "/root-automated-setup/static/media/flamebearers.5b7e27cc9fd75fad61e4.png",
     "static/media/tunnel.png": "/root-automated-setup/static/media/tunnel.4b55e4ed66356826d2c5.png",
     "static/media/city.png": "/root-automated-setup/static/media/city.86020b163a0a6fd2c40c.png",
@@ -58,6 +57,7 @@
     "static/media/tradePosts.png": "/root-automated-setup/static/media/tradePosts.601f6da42e0a5b6f519a.png",
     "static/media/uprising.png": "/root-automated-setup/static/media/uprising.43ef887e0fd77d14c919.png",
     "static/media/plot.png": "/root-automated-setup/static/media/plot.25a3c62b5df315eda3e8.png",
+    "static/media/tower.png": "/root-automated-setup/static/media/tower.49e57de2f4702d3d1d36.png",
     "static/media/sympathy.png": "/root-automated-setup/static/media/sympathy.8d1c001f4941be8ecbc0.png",
     "static/media/mob.png": "/root-automated-setup/static/media/mob.7974ca14084bd9d47b4f.png",
     "static/media/market.png": "/root-automated-setup/static/media/market.0023838b9a99ed62087d.png",
@@ -76,12 +76,12 @@
     "static/media/restart.svg": "/root-automated-setup/static/media/restart.1f1bc0fcdd3af260a646146f9839655a.svg",
     "static/media/close.svg": "/root-automated-setup/static/media/close.2868256c5d35189e90f781fe73fc5c34.svg",
     "static/media/next.svg": "/root-automated-setup/static/media/next.f651cefe41f9309065677703624ef585.svg",
-    "main.e19fc8d9.css.map": "/root-automated-setup/static/css/main.e19fc8d9.css.map",
-    "main.fb139b56.js.map": "/root-automated-setup/static/js/main.fb139b56.js.map",
-    "fr.e19f7690.chunk.js.map": "/root-automated-setup/static/js/fr.e19f7690.chunk.js.map"
+    "main.32256439.css.map": "/root-automated-setup/static/css/main.32256439.css.map",
+    "main.9aeb4a33.js.map": "/root-automated-setup/static/js/main.9aeb4a33.js.map",
+    "fr.8afee949.chunk.js.map": "/root-automated-setup/static/js/fr.8afee949.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e19fc8d9.css",
-    "static/js/main.fb139b56.js"
+    "static/css/main.32256439.css",
+    "static/js/main.9aeb4a33.js"
   ]
 }
