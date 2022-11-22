@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/root-automated-setup/static/css/main.32256439.css",
-    "main.js": "/root-automated-setup/static/js/main.9aeb4a33.js",
+    "main.js": "/root-automated-setup/static/js/main.832b2041.js",
     "fr.js": "/root-automated-setup/static/js/fr.8afee949.chunk.js",
     "static/media/background.jpg": "/root-automated-setup/static/media/background.8e30f94bdfebcf634cca.jpg",
     "static/media/autumn.png": "/root-automated-setup/static/media/autumn.34a19bc9d5c6292ae9fd.png",
@@ -77,11 +77,11 @@
     "static/media/close.svg": "/root-automated-setup/static/media/close.2868256c5d35189e90f781fe73fc5c34.svg",
     "static/media/next.svg": "/root-automated-setup/static/media/next.f651cefe41f9309065677703624ef585.svg",
     "main.32256439.css.map": "/root-automated-setup/static/css/main.32256439.css.map",
-    "main.9aeb4a33.js.map": "/root-automated-setup/static/js/main.9aeb4a33.js.map",
+    "main.832b2041.js.map": "/root-automated-setup/static/js/main.832b2041.js.map",
     "fr.8afee949.chunk.js.map": "/root-automated-setup/static/js/fr.8afee949.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32256439.css",
-    "static/js/main.9aeb4a33.js"
+    "static/js/main.832b2041.js"
   ]
 }
