@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/root-automated-setup/static/css/main.32256439.css",
-    "main.js": "/root-automated-setup/static/js/main.fba06d6d.js",
-    "fr.js": "/root-automated-setup/static/js/fr.5d692bd2.chunk.js",
+    "main.js": "/root-automated-setup/static/js/main.63079cd1.js",
+    "fr.js": "/root-automated-setup/static/js/fr.b712fa60.chunk.js",
     "static/media/background.jpg": "/root-automated-setup/static/media/background.8e30f94bdfebcf634cca.jpg",
     "static/media/autumn.png": "/root-automated-setup/static/media/autumn.34a19bc9d5c6292ae9fd.png",
     "static/media/mountain.png": "/root-automated-setup/static/media/mountain.623532bc059b644de1ae.png",
@@ -69,7 +69,7 @@
     "static/media/bases.png": "/root-automated-setup/static/media/bases.8da0207dcc33b1f1b5cd.png",
     "static/media/forge.png": "/root-automated-setup/static/media/forge.75e17c4ece095f53d64d.png",
     "static/media/stronghold.png": "/root-automated-setup/static/media/stronghold.e20913cdc2192d81b2bd.png",
-    "static/media/militant.svg": "/root-automated-setup/static/media/militant.4708c67a499bc925b7614c6ae04fce14.svg",
+    "static/media/militant.svg": "/root-automated-setup/static/media/militant.f852be3143dc1241a44a219440c2c9fa.svg",
     "index.html": "/root-automated-setup/index.html",
     "static/media/undo.svg": "/root-automated-setup/static/media/undo.5a573c6cc3c17506a909a3a801018a50.svg",
     "static/media/redo.svg": "/root-automated-setup/static/media/redo.11634d8fe78742557717ccbadd28ebfd.svg",
@@ -77,11 +77,11 @@
     "static/media/close.svg": "/root-automated-setup/static/media/close.2868256c5d35189e90f781fe73fc5c34.svg",
     "static/media/next.svg": "/root-automated-setup/static/media/next.f651cefe41f9309065677703624ef585.svg",
     "main.32256439.css.map": "/root-automated-setup/static/css/main.32256439.css.map",
-    "main.fba06d6d.js.map": "/root-automated-setup/static/js/main.fba06d6d.js.map",
-    "fr.5d692bd2.chunk.js.map": "/root-automated-setup/static/js/fr.5d692bd2.chunk.js.map"
+    "main.63079cd1.js.map": "/root-automated-setup/static/js/main.63079cd1.js.map",
+    "fr.b712fa60.chunk.js.map": "/root-automated-setup/static/js/fr.b712fa60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32256439.css",
-    "static/js/main.fba06d6d.js"
+    "static/js/main.63079cd1.js"
   ]
 }
